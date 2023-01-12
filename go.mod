@@ -1,4 +1,4 @@
-module github.com/confio/tgrade
+module github.com/Harbinger-Network/furya
 
 go 1.18
 

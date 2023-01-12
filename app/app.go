@@ -94,13 +94,13 @@ import (
 	_ "github.com/cosmos/cosmos-sdk/client/docs/statik"
 )
 
-const appName = "tgrade"
+const appName = "furya"
 
 const (
-	NodeDir       = ".tgrade"
-	Bech32Prefix  = "tgrade"
-	HumanCoinUnit = "tgd"
-	BaseCoinUnit  = "utgd"
+	NodeDir       = ".furya"
+	Bech32Prefix  = "furya"
+	HumanCoinUnit = "fury"
+	BaseCoinUnit  = "ufury"
 	TgdExponent   = 6
 )
 
