@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/CosmWasm/wasmd v0.29.1
 	github.com/CosmWasm/wasmvm v1.1.1
+	github.com/confio/tgrade v1.0.1
 	github.com/cosmos/cosmos-sdk v0.45.9
 	github.com/cosmos/ibc-go/v3 v3.3.0
 	github.com/gogo/protobuf v1.3.3
@@ -26,7 +27,7 @@ require (
 	github.com/tidwall/sjson v1.2.5
 	google.golang.org/genproto v0.0.0-20220725144611-272f38e5d71b
 	google.golang.org/grpc v1.49.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.29.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
